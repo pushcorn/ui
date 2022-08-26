@@ -10,7 +10,7 @@
         "resources/**"
     ],
     "peerDependencies": {
-        "@pushcorn/nit": "github:pushcorn/nit#semver:^0.9.18"
+        "@pushcorn/nit": "github:pushcorn/nit#semver:^0.9.24"
     },
     "dependencies": {
         "autoprefixer": "10.4.8",
