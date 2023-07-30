@@ -3,7 +3,7 @@ test.method ("ui.css.StyleFmt", "format")
     .given (`     a       { color:
     red; }`)
     .returns (`a {
-    color: red;
+  color: red;
 }`)
     .commit ()
 ;

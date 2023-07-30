@@ -3,7 +3,7 @@ test.command ("ui.commands.CompileCss")
     .given ("example.css")
     .chdir ("test/resources")
     .returns (`div.highlighted a {
-    color: red;
+  color: red;
 }
 `)
     .commit ()
