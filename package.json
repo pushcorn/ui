@@ -1,6 +1,6 @@
 {
     "name": "@pushcorn/ui",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "The UI module for nit.",
     "license": "ISC",
     "files": [
@@ -10,7 +10,7 @@
         "resources/**"
     ],
     "peerDependencies": {
-        "@pushcorn/nit": "github:pushcorn/nit#semver:^1.6.0"
+        "@pushcorn/nit": "github:pushcorn/nit#semver:^2.0.0"
     },
     "peerDependenciesMeta": {
         "@pushcorn/nit": {
@@ -24,7 +24,7 @@
         "postcss-advanced-variables": "3.0.1",
         "postcss-color-function": "4.1.0",
         "postcss-current-selector": "0.0.3",
-        "postcss-custom-properties": "13.3.1",
+        "postcss-custom-properties": "13.3.2",
         "postcss-nested": "6.0.1",
         "postcss-nested-ancestors": "3.0.0",
         "postcss-preset-env": "9.1.4",
