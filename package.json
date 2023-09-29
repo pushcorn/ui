@@ -1,6 +1,6 @@
 {
     "name": "@pushcorn/ui",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "The UI module for nit.",
     "license": "ISC",
     "files": [
