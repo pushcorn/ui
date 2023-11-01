@@ -1,6 +1,6 @@
 {
     "name": "@pushcorn/ui",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "The UI module for nit.",
     "license": "ISC",
     "files": [
@@ -27,7 +27,7 @@
         "postcss-custom-properties": "13.3.2",
         "postcss-nested": "6.0.1",
         "postcss-nested-ancestors": "3.0.0",
-        "postcss-preset-env": "9.2.0",
+        "postcss-preset-env": "9.3.0",
         "postcss-value-parser": "4.2.0",
         "stylefmt": "6.0.3",
         "uglify-js": "3.17.4"
